@@ -1,6 +1,6 @@
 * QRCode Reader for Mac OS
 ** Prerequisites
-- [[https://zbar.sourceforge.net][zbar]], available through the homebrew
+- [[http://zbar.sourceforge.net][zbar]], available through the homebrew
 ** Installation
 - Move the workflow folder into ~$HOME/Library/Services/~
 - Navigate to keyboard shortcut settings, find QRCode Reader in Services \to Services \to General.
